@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+ddgs
+lxml
+lxml_html_clean
+trafilatura
+googlesearch-python
+pypdf
+youtube-transcript-api
+customtkinter
